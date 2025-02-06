@@ -7,9 +7,9 @@
         "Price":"$ 20.00",
         "Delete":"$32.00",
         "Discount":"(15% Off)",
-        "Star":"RatingStar.svg",
+        "Star":"Star.svg",
+        "ColorText":"Colors-",
         "Ratng":"4.5 (200)",
-        "color":["#f57e5d","#02a67d","#d42f2f","#d96302","#0289d1"],
         "Heart":"Heart.svg"
     },
     {
@@ -20,9 +20,9 @@
         "Price":"$ 20.00",
         "Delete":"$32.00",
         "Discount":"(15% Off)",
-        "Star":"RatingStar.svg",
+        "Star":"Star.svg",
+        "ColorText":"Colors-",
         "Ratng":"4.5 (200)",
-        "color":["#f57e5d","#02a67d","#d42f2f","#d96302","#0289d1"],
         "Heart":"Heart.svg"
 
     },
@@ -32,9 +32,9 @@
         "Price":"$ 20.00",
         "Delete":"$32.00",
         "Discount":"(15% Off)",
-        "Star":"RatingStar.svg",
+        "Star":"Star.svg",
+        "ColorText":"Colors-",
         "Ratng":"4.5 (200)",
-        "color":["#f57e5d","#02a67d","#d42f2f","#d96302","#0289d1"],
         "Heart":"Heart.svg"
     },
     {
@@ -45,9 +45,9 @@
         "Price":"$ 20.00",
         "Delete":"$32.00",
         "Discount":"(15% Off)",
-        "Star":"RatingStar.svg",
+        "Star":"Star.svg",
+        "ColorText":"Colors-",
         "Ratng":"4.5 (200)",
-        "color":["#f57e5d","#02a67d","#d42f2f","#d96302","#0289d1"],
         "Heart":"Heart.svg"
     },
     {
@@ -58,9 +58,9 @@
         "Price":"$ 20.00",
         "Delete":"$32.00",
         "Discount":"(15% Off)",
-        "Star":"RatingStar.svg",
+        "Star":"Star.svg",
+        "ColorText":"Colors-",
         "Ratng":"4.5 (200)",
-        "color":["#f57e5d","#02a67d","#d42f2f","#d96302","#0289d1"],
         "Heart":"Heart.svg"
     },
     {
@@ -71,9 +71,9 @@
         "Price":"$ 20.00",
         "Delete":"$32.00",
         "Discount":"(15% Off)",
-        "Star":"RatingStar.svg",
+        "Star":"Star.svg",
+        "ColorText":"Colors-",
         "Ratng":"4.5 (200)",
-        "color":["#f57e5d","#02a67d","#d42f2f","#d96302","#0289d1"],
         "Heart":"Heart.svg"
     },
     {
@@ -84,9 +84,9 @@
         "Price":"$ 20.00",
         "Delete":"$32.00",
         "Discount":"(15% Off)",
-        "Star":"RatingStar.svg",
+        "Star":"Star.svg",
+        "ColorText":"Colors-",
         "Ratng":"4.5 (200)",
-        "color":["#f57e5d","#02a67d","#d42f2f","#d96302","#0289d1"],
         "Heart":"Heart.svg"
     },
     {
@@ -95,9 +95,9 @@
         "Price":"$ 20.00",
         "Delete":"$32.00",
         "Discount":"(15% Off)",
-        "Star":"RatingStar.svg",
+        "Star":"Star.svg",
+        "ColorText":"Colors-",
         "Ratng":"4.5 (200)",
-        "color":["#f57e5d","#02a67d","#d42f2f","#d96302","#0289d1"],
         "Heart":"Heart.svg"
     }
 ]

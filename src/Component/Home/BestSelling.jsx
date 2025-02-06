@@ -2,11 +2,13 @@ import React from 'react'
 import Button from '../Ui/Button'
 import RightArrow from "../../assets/Icons/RightArrow.svg";
 import SellingData from "../Json/BestSelling.json";
+import BestSellingCard from "../Cards/BestSellingCard";
 
 const BestSelling = () => {
+
     return (
         <>
-            <section className=''>
+            <section className='py-20'>
                 <div className="container">
                     <div className="flex flex-col gap-[60px]">
                         <div className="flex justify-between items-center">
@@ -23,18 +25,19 @@ const BestSelling = () => {
                             <div className="grid grid-cols-4 gap-[30px]">
                                 {
                                     SellingData.map((items, index) => (
-                                        <div key={index} className="flex flex-col rounded-[14px] gap-[14px] p-[14px] items-center">
-                                            <div className="relative max-w-[347px] w-full max-h-[364px] h-full">
-                                                <img className='pt-[28px]  bg-[#FBFBFB] pb-[18px] px-[35px] rounded-[10px]' src={`src/assets/Images/${items.Images}`} alt="" />
-                                                <p className="absolute top-[19px] left-[14px]">{items.Offer}</p>
-                                                <img className='p-[9px] absolute top-[14px] right-[14px] bg-white rounded-full' src={`src/assets/Icons/${items.Heart}`} alt="" />
-                                            </div>
-                                            <div className="flex flex-col gap-[10px] py-1">
-                                                <div className="flex justify-between items-center">
-                                                    <h2 className='text-xl leading-[30px] font-mulish_medium'>{items.Title}</h2>
-                                                </div>
-                                            </div>
-                                        </div>
+                                        <BestSellingCard key={index}
+                                        Images={items.Images}
+                                        Title={items.Title}
+                                        Offer={items.Offer}
+                                        Price={items.Price}
+                                        Delete={items.Delete}
+                                        Discount={items.Discount}
+                                        Star={items.Star}
+                                        ColorText={items.ColorText}
+                                        Ratng={items.Ratng}
+                                        Heart={items.Heart}
+                                        
+                                        /> 
                                     ))
                                 }
                             </div>

@@ -11,16 +11,11 @@ const Catagory = () => {
                         <h3 className='commonheadname'>Category</h3>
                         <h1 className='commonheading'>Explore Category</h1>
                     </div>
-                    <div className="grid grid-cols-3 gap-[30px] ">
-                        <div className="bg-[url('src/assets/Images/catagorybg.png')] pt-5 pl-5 bg-cover bg-no-repeat">
-                            <img className='rounded-t-[120px]' src="src/assets/Images/categorypic1.png" alt="" />
-                        </div>
-                        <div className="bg-[url('src/assets/Images/catagorybg.png')] pt-5 pl-5 bg-cover bg-no-repeat">
-                            <img className='rounded-t-[120px]' src="src/assets/Images/categorypic2.png" alt="" />
-                        </div>
-                        <div className="bg-[url('src/assets/Images/catagorybg.png')] pt-5 pl-5 bg-cover bg-no-repeat">
-                            <img className='rounded-t-[120px]' src="src/assets/Images/categorypic3.png" alt="" />
-                        </div>
+                    <div className="flex gap-[30px]">
+                        {
+                            
+                        }
+                        
                     </div>
                 </div>
             </div>

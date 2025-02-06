@@ -17,7 +17,7 @@ const Partner = () => {
                     <div className="container">
                         <div className="flex flex-col gap-[60px]">
                             <div className="flex items-center flex-col">
-                                <h6 className='commonheadname'>Our Partners</h6>
+                                <h6 className='commonhead'>Our Partners</h6>
                                 <h2 className='commonheading '>Fashion Partners</h2>
                             </div>
                             <div className="">

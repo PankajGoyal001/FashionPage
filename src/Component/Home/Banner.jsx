@@ -18,7 +18,7 @@ const Banner = () => {
                                 <div className="flex flex-col gap-20">
                                     <div className="flex flex-col gap-[30px]">
                                         <div className="flex flex-col">
-                                            <h4 className='text-orange-lightorange font-mulish_semibold text-2xl leading-[35px]'>Hurry Up Grab 40% Off</h4>
+                                            <h4 className='commonhead'>Hurry Up Grab 40% Off</h4>
                                             <h1 className='text-8xl font-mulish_medium text-gray-darkgray'>New <span className='border-2 rounded-[100%] rotate-[20%] text-orange-lightorange border-orange-lightorange'>Arrivals</span> For Summer Wear</h1>
                                         </div>
                                         <p className="text-gray-midgray  font-mulish_semibold max-w-[732px] w-full text-2xl leading-[35px]">We Try Our Best Product For Shipping, Along With Tracking Info. We Inform Order Within 24hours In Your Email Address.</p>

@@ -58,7 +58,7 @@
     @apply max-w-[1630px] w-full px-5 mx-auto
   }
 
-  .commonheadname{
+  .commonhead{
     @apply font-mulish_semibold text-2xl leading-[35px] text-orange-lightorange
   }
   .commonheading{

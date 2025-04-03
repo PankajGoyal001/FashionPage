@@ -1,0 +1,103 @@
+[
+    {
+        "Images":"Selling1.png",
+        "Title":"Grey Cotton T-Shirt",
+        "Offer":"New",
+        "colortag":["#f57e5d"],
+        "Price":"$ 20.00",
+        "Delete":"$32.00",
+        "Discount":"(15% Off)",
+        "Star":"Star.svg",
+        "ColorText":"Colors-",
+        "Ratng":"4.5 (200)",
+        "Heart":"Heart.svg"
+    },
+    {
+        "Images":"Selling2.png",
+        "Title":"Dark Blue T-Shirt",
+        "Offer":"30% Off",
+        "colortag":["#2ab4f5"],
+        "Price":"$ 20.00",
+        "Delete":"$32.00",
+        "Discount":"(15% Off)",
+        "Star":"Star.svg",
+        "ColorText":"Colors-",
+        "Ratng":"4.5 (200)",
+        "Heart":"Heart.svg"
+
+    },
+    {
+        "Images":"Selling3.png",
+        "Title":"Sleeve Blouse Ruffle...",
+        "Price":"$ 20.00",
+        "Delete":"$32.00",
+        "Discount":"(15% Off)",
+        "Star":"Star.svg",
+        "ColorText":"Colors-",
+        "Ratng":"4.5 (200)",
+        "Heart":"Heart.svg"
+    },
+    {
+        "Images":"Selling4.png",
+        "Title":"Red Bluza Hoodie T-shirt ",
+        "Offer":"20% Off",
+        "colortag":["#2ab4f5"],
+        "Price":"$ 20.00",
+        "Delete":"$32.00",
+        "Discount":"(15% Off)",
+        "Star":"Star.svg",
+        "ColorText":"Colors-",
+        "Ratng":"4.5 (200)",
+        "Heart":"Heart.svg"
+    },
+    {
+        "Images":"Selling5.png",
+        "Title":"Blouse T-shirt Clothing ",
+        "Offer":"Top Rated ",
+        "colortag":["#ffa826"],
+        "Price":"$ 20.00",
+        "Delete":"$32.00",
+        "Discount":"(15% Off)",
+        "Star":"Star.svg",
+        "ColorText":"Colors-",
+        "Ratng":"4.5 (200)",
+        "Heart":"Heart.svg"
+    },
+    {
+        "Images":"Selling6.png",
+        "Title":"Jeans Denim  T- shirt",
+        "Offer":"Sold Out",
+        "colortag":["#d42f2f"],
+        "Price":"$ 20.00",
+        "Delete":"$32.00",
+        "Discount":"(15% Off)",
+        "Star":"Star.svg",
+        "ColorText":"Colors-",
+        "Ratng":"4.5 (200)",
+        "Heart":"Heart.svg"
+    },
+    {
+        "Images":"Selling7.png",
+        "Title":" Sleeve Dress T-shirt  ",
+        "Offer":"Top Rated",
+        "colortag":["#ffa826"],
+        "Price":"$ 20.00",
+        "Delete":"$32.00",
+        "Discount":"(15% Off)",
+        "Star":"Star.svg",
+        "ColorText":"Colors-",
+        "Ratng":"4.5 (200)",
+        "Heart":"Heart.svg"
+    },
+    {
+        "Images":"Selling8.png",
+        "Title":"Diving watch ",
+        "Price":"$ 20.00",
+        "Delete":"$32.00",
+        "Discount":"(15% Off)",
+        "Star":"Star.svg",
+        "ColorText":"Colors-",
+        "Ratng":"4.5 (200)",
+        "Heart":"Heart.svg"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "image":"src/assets/images/categorypic1.png",
+        "name" :"Man’s Collection"
+    },
+    {
+        "image":"src/assets/images/categorypic2.png",
+        "name" :"Women’s Collection"
+    },
+    {
+        "image":"src/assets/images/categorypic3.png",
+        "name" :"Kid’s Collection"
+    }
+]

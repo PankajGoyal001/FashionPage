@@ -1,0 +1,98 @@
+[
+    {
+        "image": "src/assets/images/jackethood.png",
+        "title": "Jacket Hood Dress T-shirt",
+        "heartsvg": "src/assets/svg/heart2card.svg",
+        "coloredtag": "New",
+        "coloroftag": [
+            "#F57E5D"
+        ],
+        "star": "src/assets/svg/StarFilled.svg",
+        "rated": "4.5 (200)",
+        "price": "$ 20.00",
+        "discountprice": "$32.00",
+        "offpercent": "(15% Off)"
+    },
+    {
+        "image": "src/assets/images/dressskirt.png",
+        "title": "Dress Shirt Crop top Clothing Full...",
+        "heartsvg": "src/assets/svg/heart2card.svg",
+        "coloredtag": "10% Off",
+        "coloroftag": [
+            "#29B6F6"
+        ],
+        "star": "src/assets/svg/StarFilled.svg",
+        "rated": "4.5 (200)",
+        "price": "$ 20.00",
+        "discountprice": "$32.00",
+        "offpercent": "(15% Off)"
+    },
+    {
+        "image": "src/assets/images/louis.png",
+        "title": "Louis Vuitton Backpack Handbag",
+        "heartsvg": "src/assets/svg/heart2card.svg",
+        "star": "src/assets/svg/StarFilled.svg",
+        "rated": "4.5 (200)",
+        "price": "$ 20.00",
+        "discountprice": "$32.00",
+        "offpercent": "(15% Off)"
+    },
+    {
+        "image": "src/assets/images/bellsleeve.png",
+        "title": "Bell sleeve Dress T-shirt",
+        "heartsvg": "src/assets/svg/heart2card.svg",
+        "coloredtag": "Top Rated",
+        "coloroftag": [
+            "#FFA726"
+        ],
+        "star": "src/assets/svg/StarFilled.svg",
+        "rated": "4.5 (200)",
+        "price": "$ 20.00",
+        "discountprice": "$32.00",
+        "offpercent": "(15% Off)"
+    },
+    {
+        "image": "src/assets/images/scarf.png",
+        "title": "Scarf Winter Fashion Wool ...",
+        "heartsvg": "src/assets/svg/heart2card.svg",
+        "star": "src/assets/svg/StarFilled.svg",
+        "rated": "4.5 (200)",
+        "price": "$ 20.00",
+        "discountprice": "$32.00",
+        "offpercent": "(15% Off)"
+    },
+    {
+        "image": "src/assets/images/baby.png",
+        "title": "Baby T-shirt",
+        "heartsvg": "src/assets/svg/heart2card.svg",
+        "star": "src/assets/svg/StarFilled.svg",
+        "rated": "4.5 (200)",
+        "price": "$ 20.00",
+        "discountprice": "$32.00",
+        "offpercent": "(15% Off)"
+    },
+    {
+        "image": "src/assets/images/toread.png",
+        "title": "Toread Bagpack...",
+        "heartsvg": "src/assets/svg/heart2card.svg",
+        "coloredtag": "New",
+        "coloroftag": [
+            "#F57E5D"
+        ],
+        "star": "src/assets/svg/StarFilled.svg",
+        "rated": "4.5 (200)",
+        "price": "$ 20.00",
+        "discountprice": "$32.00",
+        "offpercent": "(15% Off)"
+    },
+    {
+        "image": "src/assets/images/toddlers.png",
+        "title": "Toddlers Brown and White Full...",
+        "heartsvg": "src/assets/svg/heart2card.svg",
+        "star": "src/assets/svg/StarFilled.svg",
+        "rated": "4.5 (200)",
+        "price": "$ 20.00",
+        "discountprice": "$32.00",
+        "offpercent": "(15% Off)"
+    }
+]

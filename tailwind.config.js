@@ -37,11 +37,8 @@ export default {
           "midgray": "#607D8B",
           "highgray": "#455a64",
           "darkgray": "#37474f",
-          "darkGreen": "#263238"
+
         },
-        Border:{
-          "lightborder":"#ECEFF1"
-        }
       },
     },
   },

@@ -1,0 +1,26 @@
+[
+    {
+        "image": "src/assets/images/Mens.png",
+        "title": "Men’s"
+    },
+    {
+        "image": "src/assets/images/Woman.png",
+        "title": "Woman’s"
+    },
+    {
+        "image": "src/assets/images/Kid.png",
+        "title": "Kid’ss"
+    },
+    {
+        "image": "src/assets/images/Perfumes.png",
+        "title": "Perfume’ss"
+    },
+    {
+        "image": "src/assets/images/CasualShoes.png",
+        "title": "Casual Shoes"
+    },
+    {
+        "image": "src/assets/images/WeddingShoes.png",
+        "title": "Wedding’s Shoes"
+    }
+]

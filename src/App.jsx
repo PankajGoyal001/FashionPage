@@ -1,19 +1,27 @@
-import { BrowserRouter,Route,Routes } from "react-router-dom";
-import Header from "./Component/Common/Header";
-import Footer from "./Component/Common/Footer";
-import Home from "./Pages/Home";
 
-export default function App() {
-  
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import './App.css'
+import Home from './pages/Home'
+import Header from './components/common/Header'
+import About from './pages/About'
+import Footer from './components/common/Footer'
+import NewArrival from './pages/NewArrival'
+
+function App() {
+
   return (
     <>
-    <BrowserRouter>
-    <Header/>
-    <Routes>
-    <Route path="/" element={<Home/>}/>
-    </Routes>
-    <Footer/>
-    </BrowserRouter>
+      <BrowserRouter>
+        <Header />
+        <Routes>
+          <Route path='/' element={<Home />} />
+          <Route path='/about' element={<About />} />
+          <Route path='/arrival' element={<NewArrival/>} />
+        </Routes>
+        <Footer />
+      </BrowserRouter>
     </>
   )
 }
+
+export default App

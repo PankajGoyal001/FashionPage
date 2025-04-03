@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Email Address",
+        "image": "src/assets/svg/MailOutlineOutlined.svg",
+        "title": "dummyemail@gmail.com"
+    },
+    {
+        "name": "Mobile",
+        "image": "src/assets/svg/CallOutlined.svg",
+        "title": "+91 12345 67890"
+    },
+    {
+        "name": "Store Location",
+        "image": "src/assets/svg/MyLocationOutlined2.svg",
+        "title": "Akshya Colony 1st Block 1st Cross, Ram Nagar, Bangalore-560016"
+    }
+]

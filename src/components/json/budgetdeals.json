@@ -1,0 +1,22 @@
+[
+    {
+        "image": "src/assets/images/budgetdeal1.png",
+        "title": "Regular Fashion Below",
+        "percent": "10% - 30%"
+    },
+    {
+        "image": "src/assets/images/budgetdeal2.png",
+        "title": "Kid’s Fashion Below",
+        "percent": "30% - 50%"
+    },
+    {
+        "image": "src/assets/images/budgetdeal3.png",
+        "title": "Beauty Products Below",
+        "percent": "50% - 70%"
+    },
+    {
+        "image": "src/assets/images/budgetdeal4.png",
+        "title": "Office Clothes Below",
+        "percent": "70% - 90%"
+    }
+]

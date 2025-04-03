@@ -3,71 +3,79 @@
 @tailwind utilities;
 
 @layer base {
-    @font-face {
-      font-family: "Mulish_regular";
-      font-style: normal;
-      font-weight: 400;
-      font-display: swap;
-      src: url(./assets/Font/Mulish/static/Mulish-Regular.ttf);
-    }
-  
-    @font-face {
-      font-family: "Mulish_medium";
-      font-style: normal;
-      font-weight: 500;
-      font-display: swap;
-      src: url(./assets/Font/Mulish/static/Mulish-Medium.ttf);
-    }
-  
-    @font-face {
-      font-family: "Mulish_semibold";
-      font-style: normal;
-      font-weight: 600;
-      font-display: swap;
-      src: url(./assets/Font/Mulish/static/Mulish-SemiBold.ttf);
-    }
-  
-    @font-face {
-      font-family: "Mulish_bold";
-      font-style: normal;
-      font-weight: 700;
-      font-display: swap;
-      src: url(./assets/Font/Mulish/static/Mulish-Bold.ttf);
-    }
-  
-    @font-face {
-      font-family: "Mulish_extrabold";
-      font-style: normal;
-      font-weight: 800;
-      font-display: swap;
-      src: url(./assets/Font/Mulish/static/Mulish-ExtraBold.ttf);
-    }
-  
-    @font-face {
-      font-family: "Mulish_black";
-      font-style: normal;
-      font-weight: 900;
-      font-display: swap;
-      src: url(./assets/Font/Mulish/static/Mulish-Black.ttf);
-    }
+  @font-face {
+    font-family: "Mulish_regular";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(./assets/Font/Mulish/static/Mulish-Regular.ttf);
   }
 
-  
+  @font-face {
+    font-family: "Mulish_medium";
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(./assets/Font/Mulish/static/Mulish-Medium.ttf);
+  }
+
+  @font-face {
+    font-family: "Mulish_semibold";
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(./assets/Font/Mulish/static/Mulish-SemiBold.ttf);
+  }
+
+  @font-face {
+    font-family: "Mulish_bold";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(./assets/Font/Mulish/static/Mulish-Bold.ttf);
+  }
+
+  @font-face {
+    font-family: "Mulish_extrabold";
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(./assets/Font/Mulish/static/Mulish-ExtraBold.ttf);
+  }
+
+  @font-face {
+    font-family: "Mulish_black";
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(./assets/Font/Mulish/static/Mulish-Black.ttf);
+  }
+}
+
+
+
+
+
 @layer utilities {
+  body {
+    @apply box-border m-0 p-0
+  }
+
+
   .container {
     @apply max-w-[1630px] w-full px-5 mx-auto
   }
 
-  .commonhead{
+  .padcontain{
+    @apply py-20
+  }
+
+  .commonheadname{
     @apply font-mulish_semibold text-2xl leading-[35px] text-orange-lightorange
   }
+
+
   .commonheading{
-    @apply font-mulish_bold text-6xl leading-[85px] tracking-[-0.5px] text-gray-darkgray
-  }
-  .commontext{
-    @apply text-base leading-[25px]
-  }
-  .commontext1{
-    @apply text-base leading-[22px]
+    @apply font-mulish_bold text-6xl leading-[85px] tracking-[0.5px] text-gray-darkgray
   }
 }
